@@ -179,14 +179,3 @@ document.addEventListener("mouseup", dragStop);
 carousel.addEventListener("scroll", infiniteScroll);
 wrapper.addEventListener("mouseenter", () => clearTimeout(timeoutId));
 wrapper.addEventListener("mouseleave", autoPlay);
-
-
-
-
-
-
-
-Somos expertos en instalación, mantenimiento y reparación de aires acondicionados garantizamos que cada equipo funcione a la perfección, ofreciendo un ambiente confortable y eficiente energéticamente.</p>
-Estamos certificados para brindarte servicios integrales que incluyen desde la limpieza y desinfección de filtros hasta la recuperación de refrigerante y la medición de amperaje.
-Si buscas un servicio confiable y profesional, no dudes en contactarnos.
-¡Te asegurarán un clima ideal para tu hogar o negocio!
