@@ -355,3 +355,13 @@ main{
         left: 100%;
     }
 }
+/* slider  cel  */
+@media (max-width: 500px) {
+    .thumbnail .item{
+      display: none;
+    }
+   
+    /* .carousel { 
+      display: none;
+    } */
+  }
